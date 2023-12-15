@@ -19,7 +19,7 @@ spec:
           image: amana6420/flaskapp:latest
           env:
             - name: MYSQL_HOST
-              value: "10.109.89.56"
+              value: "10.111.92.203"
             - name: MYSQL_PASSWORD
               value: "admin"
             - name: MYSQL_USER
